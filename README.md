@@ -1,7 +1,5 @@
-## Olá, eu sou o Tauan Araujo
+## Olá, Sou o Tauan Araujo 
 
-- 🔭 Sou estudante de Front-end
-- 🌱 Estudando JavaScript
 <div>
   <a href="https://github.com/Ta-One">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ta-one&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
