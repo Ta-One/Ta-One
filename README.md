@@ -1,4 +1,5 @@
-## Olá, Sou o Tauan Araujo 
+## Olá! Meu nome é Tauan Fonseca de Araujo e sou um programador em ascensão. Estou em busca constante de conhecimento e aprimoramento na área da programação. Apaixonado por resolver problemas e criar soluções inovadoras, estou determinado a me tornar um profissional de destaque nesse campo empolgante.
+## E se você me perguntar por que escolhi a programação, a resposta é simples: porque CTRL+C e CTRL+V não são considerados habilidades sociais! 😄
 
 <div>
   <a href="https://github.com/Ta-One">
