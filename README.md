@@ -1,5 +1,4 @@
-## Olá! Meu nome é Tauan Fonseca de Araujo e sou um programador iniciante. Estou em busca constante de conhecimento e aprimoramento na área da programação. Apaixonado por resolver problemas e criar soluções inovadoras, estou determinado a me tornar um profissional de destaque nesse campo empolgante.
-## E se você me perguntar por que eu gosto de programação? Porque um "bug" é só um erro temporário, mas "feature" é um problema permanente!
+## Olá! Meu nome é Tauan Fonseca de Araujo e sou um programador iniciante. Estou em busca constante de conhecimento e aprimoramento na área da programação. Sou apaixonado por resolver problemas e criar soluções inovadoras, estou determinado a me tornar um profissional de destaque nesse ramo de trabalho.
 <div>
   <a href="https://github.com/Ta-One">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ta-one&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
