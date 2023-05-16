@@ -1,9 +1,11 @@
 ## Olá! Meu nome é Tauan Fonseca de Araujo e sou um programador iniciante. Estou em busca constante de conhecimento e aprimoramento na área da programação. Sou apaixonado por resolver problemas e criar soluções inovadoras, estou determinado a me tornar um profissional de destaque nesse ramo de trabalho.
-<div>
-  <a href="https://github.com/Ta-One">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ta-one&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ta-one&layout=compact&langs_count=16&theme=buefy"/>
-</div>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ta-One&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ta-One&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ta-One&theme=dracula) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ta-One&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ta-One&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 <div style="display:  inline_block"><br>
   <img aling="center" alt="Taone-Html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>   
   <img aling="center" alt="Taone-Css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/> 
