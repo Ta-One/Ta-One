@@ -1,4 +1,8 @@
-## Olá! Meu nome é Tauan e sou um estudante de programação. Estou em busca constante de conhecimento e aprimoramento na área. Sou apaixonado por resolver problemas e criar soluções inovadoras.
+## Olá! Meu nome é Tauan e, apesar de ser um estudante de programação, ainda não programei meu café para se fazer sozinho (mas estou trabalhando nisso!). 🤯
+
+Sou um caçador de bugs profissional (e de pokémons nas horas vagas 😜) e adoro transformar linhas de código em soluções criativas que facilitam a vida das pessoas.
+
+Minha missão? Dominar a arte da programação e construir um mundo melhor, um código de cada vez! 🚀 (E quem sabe, até conseguir teletransportar pizza com JavaScript 🍕).
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ta-One&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ta-One&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ta-One&theme=dracula) |
 | :-: | :-: | :-: |
