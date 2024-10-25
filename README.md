@@ -1,4 +1,4 @@
-## Olá! Meu nome é Tauan Fonseca de Araujo e sou um programador iniciante. Estou em busca constante de conhecimento e aprimoramento na área da programação. Sou apaixonado por resolver problemas e criar soluções inovadoras, estou determinado a me tornar um profissional de destaque nesse ramo de trabalho.
+## Olá! Meu nome é Tauan e sou um estudante de programação. Estou em busca constante de conhecimento e aprimoramento na área. Sou apaixonado por resolver problemas e criar soluções inovadoras.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ta-One&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ta-One&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ta-One&theme=dracula) |
 | :-: | :-: | :-: |
